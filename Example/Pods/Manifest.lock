@@ -1,0 +1,16 @@
+PODS:
+  - BigKeeperUserCenterModule (0.1.0)
+
+DEPENDENCIES:
+  - BigKeeperUserCenterModule (from `../`)
+
+EXTERNAL SOURCES:
+  BigKeeperUserCenterModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BigKeeperUserCenterModule: a189af9dd44e20dbff3e230952311973f742ee6b
+
+PODFILE CHECKSUM: 63048acf2e6feb314f5bb8e180f826bde868e939
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,6 @@
+framework module BigKeeperUserCenterModule {
+  umbrella header "BigKeeperUserCenterModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
