@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BigKeeperUserCenterModule_Example' do
+  pod 'BigKeeperUserCenterModule', :path => '../'
+
+  target 'BigKeeperUserCenterModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
